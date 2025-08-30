@@ -1,1 +1,1 @@
-# Mini-Projects-Python
+Beginner friendly Python projects
